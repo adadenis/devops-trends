@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.adadenis.devops</groupId>
   <artifactId>devops-trends</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>devops-trends</name>
   <url>http://maven.apache.org</url>
